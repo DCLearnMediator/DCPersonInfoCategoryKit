@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DCPersonInfoCategoryKit_Tests' do
+  pod 'DCPersonInfoCategoryKit', :path => '../'
+  
+  
+end
